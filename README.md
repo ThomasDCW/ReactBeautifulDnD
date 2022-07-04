@@ -1,8 +1,3 @@
-# template-react-vite-js
+Trying Beautiful DnD
 
-Template d'une application react-vite en JS
-
-Pour l'utiliser, fork le repo, utilise le template, n'oublie pas le npm install ;)
-Pour lancer ton app -> npm run dev
-
-Enjoy :) 
+https://github.com/atlassian/react-beautiful-dnd/blob/master/docs/about/installation.md
